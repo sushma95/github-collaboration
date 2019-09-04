@@ -1,1 +1,1 @@
-# Github-collaboration
+# GitHub-Collaboration
